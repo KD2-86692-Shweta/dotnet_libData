@@ -1,0 +1,7 @@
+F:\CDAC\personal -git data\dotnet_libData\Assignment\assign2.1\bin\Debug\assign2.1.exe.config
+F:\CDAC\personal -git data\dotnet_libData\Assignment\assign2.1\bin\Debug\assign2.1.exe
+F:\CDAC\personal -git data\dotnet_libData\Assignment\assign2.1\bin\Debug\assign2.1.pdb
+F:\CDAC\personal -git data\dotnet_libData\Assignment\assign2.1\obj\Debug\assign2.1.csproj.AssemblyReference.cache
+F:\CDAC\personal -git data\dotnet_libData\Assignment\assign2.1\obj\Debug\assign2.1.csproj.CoreCompileInputs.cache
+F:\CDAC\personal -git data\dotnet_libData\Assignment\assign2.1\obj\Debug\assign2.1.exe
+F:\CDAC\personal -git data\dotnet_libData\Assignment\assign2.1\obj\Debug\assign2.1.pdb
