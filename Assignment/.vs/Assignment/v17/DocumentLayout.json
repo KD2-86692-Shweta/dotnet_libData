@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D487BBF-6BED-4903-B5E1-ED6508F067EE}|assign01\\assign01.csproj|f:\\cdac\\personal -git data\\dotnet_libdata\\assignment\\assign01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D487BBF-6BED-4903-B5E1-ED6508F067EE}|assign01\\assign01.csproj|solutionrelative:assign01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDB3D963-5368-4F58-87C9-CC129110CC2C}|ArithmeticOperations\\ArithmeticOperations.csproj|f:\\cdac\\personal -git data\\dotnet_libdata\\assignment\\arithmeticoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB3D963-5368-4F58-87C9-CC129110CC2C}|ArithmeticOperations\\ArithmeticOperations.csproj|solutionrelative:arithmeticoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C835DC-678D-4AA2-A796-15682E015096}|MathsLib\\MathsLib.csproj|f:\\cdac\\personal -git data\\dotnet_libdata\\assignment\\mathslib\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C835DC-678D-4AA2-A796-15682E015096}|MathsLib\\MathsLib.csproj|solutionrelative:mathslib\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94EAFF35-D1C0-4C85-AE91-D1BAF5089DE5}|HRMS\\HRMS.csproj|f:\\cdac\\personal -git data\\dotnet_libdata\\assignment\\hrms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94EAFF35-D1C0-4C85-AE91-D1BAF5089DE5}|HRMS\\HRMS.csproj|solutionrelative:hrms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC592A0B-9690-400F-A547-1F6D6BA6E360}|EmployeeLibb\\EmployeeLibb.csproj|f:\\cdac\\personal -git data\\dotnet_libdata\\assignment\\employeelibb\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC592A0B-9690-400F-A547-1F6D6BA6E360}|EmployeeLibb\\EmployeeLibb.csproj|solutionrelative:employeelibb\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E758A06B-E120-49A1-B6A9-CF9DB10A59EB}|EmployeeLib\\EmployeeLib.csproj|F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\employeelib\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E758A06B-E120-49A1-B6A9-CF9DB10A59EB}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC592A0B-9690-400F-A547-1F6D6BA6E360}|EmployeeLibb\\EmployeeLibb.csproj|f:\\cdac\\personal -git data\\dotnet_libdata\\assignment\\employeelibb\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC592A0B-9690-400F-A547-1F6D6BA6E360}|EmployeeLibb\\EmployeeLibb.csproj|solutionrelative:employeelibb\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94EAFF35-D1C0-4C85-AE91-D1BAF5089DE5}|HRMS\\HRMS.csproj|f:\\cdac\\personal -git data\\dotnet_libdata\\assignment\\hrms\\hrms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94EAFF35-D1C0-4C85-AE91-D1BAF5089DE5}|HRMS\\HRMS.csproj|solutionrelative:hrms\\hrms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E758A06B-E120-49A1-B6A9-CF9DB10A59EB}|EmployeeLib\\EmployeeLib.csproj|F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\employeelib\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E758A06B-E120-49A1-B6A9-CF9DB10A59EB}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC592A0B-9690-400F-A547-1F6D6BA6E360}|EmployeeLibb\\EmployeeLibb.csproj|f:\\cdac\\personal -git data\\dotnet_libdata\\assignment\\employeelibb\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC592A0B-9690-400F-A547-1F6D6BA6E360}|EmployeeLibb\\EmployeeLibb.csproj|solutionrelative:employeelibb\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC592A0B-9690-400F-A547-1F6D6BA6E360}|EmployeeLibb\\EmployeeLibb.csproj|f:\\cdac\\personal -git data\\dotnet_libdata\\assignment\\employeelibb\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC592A0B-9690-400F-A547-1F6D6BA6E360}|EmployeeLibb\\EmployeeLibb.csproj|solutionrelative:employeelibb\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC592A0B-9690-400F-A547-1F6D6BA6E360}|EmployeeLibb\\EmployeeLibb.csproj|f:\\cdac\\personal -git data\\dotnet_libdata\\assignment\\employeelibb\\employeelibb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC592A0B-9690-400F-A547-1F6D6BA6E360}|EmployeeLibb\\EmployeeLibb.csproj|solutionrelative:employeelibb\\employeelibb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E758A06B-E120-49A1-B6A9-CF9DB10A59EB}|EmployeeLib\\EmployeeLib.csproj|F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\employeelib\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E758A06B-E120-49A1-B6A9-CF9DB10A59EB}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E758A06B-E120-49A1-B6A9-CF9DB10A59EB}|EmployeeLib\\EmployeeLib.csproj|F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\employeelib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E758A06B-E120-49A1-B6A9-CF9DB10A59EB}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +62,166 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\assign01\\Program.cs",
-              "RelativeDocumentMoniker": "assign01\\Program.cs",
-              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\assign01\\Program.cs",
-              "RelativeToolTip": "assign01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\ArithmeticOperations\\Program.cs",
+              "RelativeDocumentMoniker": "ArithmeticOperations\\Program.cs",
+              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\ArithmeticOperations\\Program.cs",
+              "RelativeToolTip": "ArithmeticOperations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T10:46:12.763Z",
+              "WhenOpened": "2025-01-02T09:52:23.75Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maths.cs",
+              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\MathsLib\\Maths.cs",
+              "RelativeDocumentMoniker": "MathsLib\\Maths.cs",
+              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\MathsLib\\Maths.cs",
+              "RelativeToolTip": "MathsLib\\Maths.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:39:53.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLibb\\Person.cs",
+              "RelativeDocumentMoniker": "EmployeeLibb\\Person.cs",
+              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLibb\\Person.cs",
+              "RelativeToolTip": "EmployeeLibb\\Person.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:10:59.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLibb\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeLibb\\Employee.cs",
+              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLibb\\Employee.cs",
+              "RelativeToolTip": "EmployeeLibb\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:14:24.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Date.cs",
+              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLibb\\Date.cs",
+              "RelativeDocumentMoniker": "EmployeeLibb\\Date.cs",
+              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLibb\\Date.cs",
+              "RelativeToolTip": "EmployeeLibb\\Date.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:13:56.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeLibb.csproj",
+              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLibb\\EmployeeLibb.csproj",
+              "RelativeDocumentMoniker": "EmployeeLibb\\EmployeeLibb.csproj",
+              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLibb\\EmployeeLibb.csproj",
+              "RelativeToolTip": "EmployeeLibb\\EmployeeLibb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T11:09:31.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLib\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Employee.cs",
+              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLib\\Employee.cs",
+              "RelativeToolTip": "EmployeeLib\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:04:12.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLibb\\Class1.cs",
+              "RelativeDocumentMoniker": "EmployeeLibb\\Class1.cs",
+              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLibb\\Class1.cs",
+              "RelativeToolTip": "EmployeeLibb\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:57:31.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLib\\Person.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Person.cs",
+              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLib\\Person.cs",
+              "RelativeToolTip": "EmployeeLib\\Person.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:37:47.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\HRMS\\Program.cs",
+              "RelativeDocumentMoniker": "HRMS\\Program.cs",
+              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\HRMS\\Program.cs",
+              "RelativeToolTip": "HRMS\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:21:41.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HRMS.csproj",
+              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\HRMS\\HRMS.csproj",
+              "RelativeDocumentMoniker": "HRMS\\HRMS.csproj",
+              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\HRMS\\HRMS.csproj",
+              "RelativeToolTip": "HRMS\\HRMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T11:22:36.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Date.cs",
+              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLib\\Date.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Date.cs",
+              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLib\\Date.cs",
+              "RelativeToolTip": "EmployeeLib\\Date.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:31:02.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLib\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Program.cs",
+              "ToolTip": "F:\\CDAC\\personal -git data\\dotnet_libData\\Assignment\\EmployeeLib\\Program.cs",
+              "RelativeToolTip": "EmployeeLib\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:47:56.148Z"
             }
           ]
         }

@@ -1,0 +1,12 @@
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLibb\bin\Debug\net8.0\EmployeeLibb.deps.json
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLibb\bin\Debug\net8.0\EmployeeLibb.dll
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLibb\bin\Debug\net8.0\EmployeeLibb.pdb
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLibb\obj\Debug\net8.0\EmployeeLibb.GeneratedMSBuildEditorConfig.editorconfig
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLibb\obj\Debug\net8.0\EmployeeLibb.AssemblyInfoInputs.cache
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLibb\obj\Debug\net8.0\EmployeeLibb.AssemblyInfo.cs
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLibb\obj\Debug\net8.0\EmployeeLibb.csproj.CoreCompileInputs.cache
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLibb\obj\Debug\net8.0\EmployeeLibb.sourcelink.json
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLibb\obj\Debug\net8.0\EmployeeLibb.dll
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLibb\obj\Debug\net8.0\refint\EmployeeLibb.dll
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLibb\obj\Debug\net8.0\EmployeeLibb.pdb
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLibb\obj\Debug\net8.0\ref\EmployeeLibb.dll

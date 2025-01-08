@@ -1,0 +1,7 @@
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLib\obj\Debug\EmployeeLib.csproj.AssemblyReference.cache
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLib\bin\Debug\EmployeeLib.exe.config
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLib\bin\Debug\EmployeeLib.exe
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLib\bin\Debug\EmployeeLib.pdb
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLib\obj\Debug\EmployeeLib.exe
+F:\CDAC\personal -git data\dotnet_libData\Assignment\EmployeeLib\obj\Debug\EmployeeLib.pdb
